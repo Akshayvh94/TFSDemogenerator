@@ -7,7 +7,7 @@
 
 1. 	Windows client Windows 10
 
-1. Download the .Zip file from Git hub [here](https://github.com/Akshayvh94/TFSDemogenerator/blob/master/TfsDG_Publish.zip?Raw=true)
+1. Download the .Zip file from Git hub [here](https://raw.githubusercontent.com/Akshayvh94/TFSDemogenerator/master/TfsDG_Publish.zip)
 
 
 Configure IIS in your machine.

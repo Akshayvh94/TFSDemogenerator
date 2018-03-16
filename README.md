@@ -11,7 +11,8 @@
 
 
 Configure IIS in your machine.
-![iisconfigure](Images\iisConfigure.png)
+<img src="Images\iisConfigure.png" alt="iisconfigure"></img>
+
 1. Provide Site name
 
 1. Select the physical path of the folder where you extracted zip file

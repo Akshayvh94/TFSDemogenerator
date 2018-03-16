@@ -9,8 +9,9 @@
 
 1. Download the .Zip file from Git hub [here](https://raw.githubusercontent.com/Akshayvh94/TFSDemogenerator/master/TfsDG_Publish.zip)
 
+1. Configure IIS in your machine
 
-Configure IIS in your machine.
+
 <img src="Images\iisConfigure.png" alt="iisconfigure"></img>
 
 1. Provide Site name

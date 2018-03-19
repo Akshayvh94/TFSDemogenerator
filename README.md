@@ -18,7 +18,7 @@
 
 1. Select the physical path of the folder where you extracted zip file
 
-1. Provide the Port number
+1. Provide the Port number. If port 80 is already in use, provide different port number.
 
 1. Click Ok and Browse your site.
 

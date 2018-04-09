@@ -30,6 +30,12 @@
 
 1. Windows 10
 
+## The other way you can run the application
+ 1. Download the .Zip Folder from the Source folder . It requires VS2015 or above.
+
+ 1. Run the web application.
+
+
 > For more information how to configure IIS on your machine please follow the links provided below.
 
 https://docs.microsoft.com/en-us/iis/application-frameworks/scenario-build-an-aspnet-website-on-iis/configuring-step-1-install-iis-and-asp-net-modules

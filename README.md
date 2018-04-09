@@ -31,7 +31,7 @@
 1. Windows 10
 
 ## The other way you can run the application
- 1. Download the .Zip Folder from the Source folder . It requires VS2015 or above.
+ 1. Download the .Zip Folder from [here](https://raw.githubusercontent.com/Akshayvh94/TFSDemogenerator/master/Source/TFS_DemoGen.zip) . It requires VS2015 or above.
 
  1. Run the web application.
 
